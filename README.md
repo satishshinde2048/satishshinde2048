@@ -1,3 +1,3 @@
 - 👋 Hi, I’m satish shinde.
-- 👀 I’m interested in laerning new things. 
+- 👀 I’m interested in learning new things. 
 - 🌱 I’m currently learning full stack web devlopement.
