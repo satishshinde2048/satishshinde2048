@@ -23,3 +23,6 @@
 - AJAX
 - REACT
 - REDUX
+- C++
+- DSA
+- OOPS
