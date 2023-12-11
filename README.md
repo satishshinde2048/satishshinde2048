@@ -3,5 +3,7 @@
 # `          👋 Hi, I’m satish shinde          `
  
 ### **```              A passionate frontend developer from India              ```**
+
+ <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://camo.githubusercontent.com/e27a2ea7c3ad94885c62a62c10c47080dfaa9432a2032cda73cba62fc6c7f25f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966">
 - 👀 I’m interested in learning new things. 
 - 🌱 I’m currently learning full stack web devlopement.
