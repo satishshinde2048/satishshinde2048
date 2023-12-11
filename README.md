@@ -9,4 +9,5 @@
 -  💬 Ask me about Frontend.
   
 - 📫 How to reach me
-                satishshinde1172000@gmail.com
+
+  satishshinde1172000@gmail.com
