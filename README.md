@@ -9,3 +9,5 @@
 -  💬 Ask me about Frontend.
   
 - 📫 How to reach me - satishshinde1172000@gmail.com
+
+- ⚡ Fun fact An adventurous coder by day, an artist at heart and a connoisseur of wit, always ready to infuse a dash of humor into the world of programming.
