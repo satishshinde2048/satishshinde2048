@@ -2,6 +2,6 @@
 
 # `          👋 Hi, I’m satish shinde          `
  
-**```                                A passionate frontend developer from India                             ```**
+**```                                A passionate frontend developer from India                            ```**
 - 👀 I’m interested in learning new things. 
 - 🌱 I’m currently learning full stack web devlopement.
