@@ -4,7 +4,7 @@
  
 ### **```              A passionate frontend developer from India              ```**
 
-- 🌱 I’m currently learning new Backend Devlopement.
+- 🌱 I’m currently learning Backend Devlopement.
 
 -  💬 Ask me about Frontend.
   
