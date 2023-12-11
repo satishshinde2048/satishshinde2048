@@ -13,4 +13,4 @@
 - ⚡ Fun fact An adventurous coder by day, an artist at heart and a connoisseur of wit, always ready to infuse a dash of humor into the world of programming.
 
 ### Connect with me:
- <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height='100' width='100'>
+ <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height='50' width='50'>
